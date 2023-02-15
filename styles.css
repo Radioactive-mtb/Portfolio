@@ -1,0 +1,38 @@
+body {
+    background-color: aqua;
+    height: auto;
+}
+
+header {
+    background-color: turquoise;
+    align-content: justify;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+h1 {
+    margin-left: 10px;
+}
+
+li {
+    padding: 5px;
+    list-style: none;
+}
+
+nav a {
+    color: black;
+}
+
+a {
+    text-decoration-line: underline;
+    color: white;
+}
+
+.card a:hover {
+    color: red;
+}
+
+.card-body {
+    color: white;
+    background-color: blue;
+}
