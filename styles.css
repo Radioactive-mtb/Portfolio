@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: grey;
     height: auto;
 }
 
@@ -12,6 +12,10 @@ header {
 
 h1 {
     margin-left: 10px;
+}
+
+h2, h3 {
+    text-decoration: underline 5px;
 }
 
 li {
